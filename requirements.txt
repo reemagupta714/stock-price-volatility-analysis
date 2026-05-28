@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaborn
+plotly
+numpy
+jupyter
+pandasql
+mysql-connector-python
